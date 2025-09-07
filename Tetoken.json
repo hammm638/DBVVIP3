@@ -1,20 +1,5 @@
-[
-  {
-    "token": "7406103404:AAGLzY4mE3mFJjajnbSRbKrRPWsLdGloV3o",
-    "ownerId": 7523570109,
-    "ownerUsername": "Humannnceko",
-    "expiryDate": "2025-09-07T20:17:51.194Z"
-  },
-  {
-    "token": "8436034357:AAEyvj7fjqWAMezrCv1wKz0KnJI8t18_Wb8",
-    "ownerId": 7523570109,
-    "ownerUsername": "Humannnceko",
-    "expiryDate": "2026-03-24T21:16:31.944Z"
-  },
-  {
-    "token": "7612432978:AAGBpnPg3C21fmBKrkfxExiKNdJ4v0RNp8I",
-    "ownerId": 7523570109,
-    "ownerUsername": "Humannnceko",
-    "expiryDate": "2025-09-14T10:09:57.727Z"
-  }
-]
+{
+  "tokens": [
+    "7612432978:AAGBpnPg3C21fmBKrkfxExiKNdJ4v0RNp8I"
+  ]
+}
